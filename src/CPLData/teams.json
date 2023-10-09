@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mighty Bulls",
+    "captain": "Digesh Panchal",
+    "alias": "bulls"
+  },
+  {
+    "name": "Power Hitters",
+    "captain": "Akshay Upare",
+    "alias": "hitters"
+  },
+  {
+    "name": "Fiercy Tigers",
+    "captain": "Suhas Dhekane",
+    "alias": "tigers"
+  },
+  {
+    "name": "Stormbreaker",
+    "captain": "Jagdeep Deogade",
+    "alias": "breakers"
+  },
+  {
+    "name": "Phoenix Fury",
+    "captain": "Pritam Pashankar",
+    "alias": "fury"
+  },
+  {
+    "name": "Yoddhas",
+    "captain": "Dilip Achari",
+    "alias": "yoddhas"
+  }
+]
